@@ -6,6 +6,7 @@ and then `npm start` - to kick off the application.
 You should expect to see the project in your browser at `http://localhost:3000` and a Node.js service running on `http://localhost:9000`
 
 ## Using the App
+- start in browser window pointed at `localhost:3000`
 - select an avatar to chat as
 - open another window accessing `localhost:3000`
 - select another avatar to chat separately as
